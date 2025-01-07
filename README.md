@@ -2,25 +2,34 @@
 Apidog Testing Project
 Welcome to the Apidog Testing Project repository! This project is designed to manage, automate, and document API testing using Apidog, a powerful API design and testing tool.
 
-Project Overview
+**Project Overview**
 This repository contains:
 
 API test cases created and managed using Apidog.
 Automated API testing scripts.
 Documentation of API endpoints, test workflows, and test results.
 Features
-API Design and Documentation:
+
+**API Design and Documentation:**
 
 Design and document API endpoints with Apidog's user-friendly interface.
 Export API documentation for integration with development teams.
-Manual and Automated Testing:
+
+**Manual and Automated Testin**g:
 
 Perform manual API testing directly in Apidog.
 Use the exported API test collections for automation.
 Test Coverage and Reporting:
 
-Project Structure
+**Project Structure**
 <br>
 <img width="535" alt="image" src="https://github.com/user-attachments/assets/b279a535-dd78-461f-be49-105b0e5506d7" />
+
+
+**How to Run Tests**
+Manual Testing
+Open the Apidog application.
+Import the required collection from /collections.
+Execute the desired API requests and validate responses.
 
 
